@@ -1,6 +1,6 @@
 # R_Assignment
 
-These are the assignments for R course (UWO Undergraduate R course Statistics 2864).
+These are the assignments for R course (2020 UWO Undergraduate R course Statistics 2864).
 
 There are five assignments in total, and the content and difficulty of each assignment is increased one by one.
 
